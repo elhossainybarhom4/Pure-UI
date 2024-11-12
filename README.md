@@ -1,4 +1,4 @@
-#American Eagle Project
+#Pure Ui Project
 This project was built using only HTML and CSS to create a static website.
 
 #Project Structure
